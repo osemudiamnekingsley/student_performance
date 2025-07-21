@@ -3,6 +3,7 @@
 ## 1. Overview
 
 This dashboard provides a visual summary of student academic performance based on scores from three core subjects. It highlights key metrics such as test preparation completion, performance by gender, grade distributions, and computed CGPA. The aim is to identify trends and opportunities for improving academic outcomes. **[Live Dashboard](https://app.powerbi.com/groups/me/reports/03746bce-86e4-4d1b-b501-e1fad5199843/dbac65331b051155bbf5?experience=power-bi)** 
+![Dashboard Screenshot](student_performance.png)
 
 ## 2. Dataset Description
 
